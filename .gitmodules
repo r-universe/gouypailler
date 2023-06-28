@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "jointDiag"]
 	path = jointDiag
 	url = https://github.com/gouypailler/jointdiag
-	shallow = true
-	registered = true
